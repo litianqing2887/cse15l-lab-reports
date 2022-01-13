@@ -1,4 +1,4 @@
-[Link](https://litianqing2887.github.io/cse-15l-lab-report/index.html)
+[Link](https://litianqing2887.github.io/cse15l-lab-reports/index.html)
 ***Hello***
 # Heading 1
 ## Heading 2
