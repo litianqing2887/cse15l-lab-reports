@@ -1,2 +1,2 @@
-[Link](https://github.com/litianqing2887/cse15l-lab-reports/edit/main/index.md)
+[Link](https://litianqing2887.github.io/cse-15l-lab-report/index.md)
 ***Hello***
