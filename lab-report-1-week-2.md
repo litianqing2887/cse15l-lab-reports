@@ -12,6 +12,7 @@
 * ls List the current directory.
 * cd Change directory.
 * cp Copy the file. 
+
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/command.png?raw=true)
 # **Moving Files with scp**
 * scp file_name target_directory
