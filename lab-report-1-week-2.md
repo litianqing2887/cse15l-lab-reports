@@ -7,6 +7,7 @@
 # **Remotely Connecting**
 * Set up OpenSSH in Apps > Optional features. 
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/Open%20ssh.png?raw=true)
+
 * In Terminal, input "ssh id@ieng6.ucsd.edu".
 * Input password.
 
