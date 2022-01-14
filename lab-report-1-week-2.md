@@ -20,8 +20,8 @@
   The file should be in local PC.
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/scp.png?raw=true)
 # **Setting an SSH Key**
-* Generate SSH key pair. [How](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
-* Use scp to cope the public key into server.
+* Generate a SSH key pair. [How](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+* Use scp to copy the public key into server.
 * Try to login without password.
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/ssh%20key.png?raw=true)
 # **Optimizing Remote Running**
