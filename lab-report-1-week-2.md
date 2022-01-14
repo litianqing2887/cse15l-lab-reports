@@ -9,6 +9,7 @@
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/Open%20ssh.png?raw=true)
 * In Terminal, input "ssh id@ieng6.ucsd.edu".
 * Input password.
+
 ![Image](https://raw.githubusercontent.com/litianqing2887/cse15l-lab-reports/c628b3e908447ecbaec2de8679f89faa8dfbd55e/ssh.png)
 
 
