@@ -15,6 +15,8 @@
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/command.png?raw=true)
 # **Moving Files with scp**
 * scp file_name target_directory
+
+  The file should be in local PC.
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/scp.png?raw=true)
 # **Setting an SSH Key**
 1. Generate SSH key pair. [How](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
