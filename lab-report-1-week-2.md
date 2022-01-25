@@ -35,6 +35,9 @@
 * Try to login without password.
 ![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/ssh%20key.png?raw=true)
 
+* Type commands without put in password. 
+![Image](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/ssh%20command.png?raw=true)
+
 
 # **Optimizing Remote Running**
 * Login, command, and exit.
