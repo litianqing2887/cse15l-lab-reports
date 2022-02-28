@@ -46,3 +46,6 @@
 * Use semicolons to connect many commands in one line.
 
   *command1;command2;command3*
+  
+* Total keystroks *
+  *5 times, very convenient*
