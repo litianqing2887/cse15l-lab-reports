@@ -14,9 +14,13 @@
 # test methods
 ![test](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/testMethods.png?raw=true)
 
-# test result
+# test result of MarkdownParse of our group
 All tests fail.
 ![result](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/testResult1.png?raw=true)
+
+# test result of MarkdownParse from another group
+All tests fail.
+![resuilt1](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/testResult2.png?raw=true)
 
 # questions
 1. Yes. Determine the position of backticks. If backticks are between parentheses, ignore them. If not, ignore the substring between two backticks. 
