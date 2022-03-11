@@ -11,7 +11,7 @@ I cannot find the repo we reviewed in week 7.
 ![snip3](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/snip3.png?raw=true)
 
 # test methods
-![test](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/snipTest.png?raw=true)
+![test](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/testMethods.png?raw=true)
 
 # test result
 All tests fail.
