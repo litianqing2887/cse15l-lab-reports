@@ -7,12 +7,16 @@ I used the compare function in Visual Studio Code. With this function, I can see
 
 # **For the first test**
 ![result](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/should1.png?raw=true)
-The result on the right is correct. There is a space in the middle of the link, so it is not a valid link. 
+The result on the right is correct. It should be "". There is a space in the middle of the link, so it is not a valid link. 
+
+- Fixing the code
 ![fix1](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/fix1.png?raw=true)
 For the MarkdownParse of our group, we should determine if there is any space in the middle of two parentheses in the while loop. 
 
 # **For the second test**
 ![result](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/should2.png?raw=true)
-The result on the right is correct. There is a space in the middle of the link, so it is not a valid link. 
+The result on the right is correct. It should be "". There is a space in the middle of the link, so it is not a valid link. 
+
+- Fixing the code
 ![fix1](https://github.com/litianqing2887/cse15l-lab-reports/blob/main/fix1.png?raw=true)
 For the MarkdownParse of our group, we should determine if there is any space in the middle of two parentheses in the while loop. 
